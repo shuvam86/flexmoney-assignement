@@ -1,9 +1,3 @@
-# FlexMoney Assignment
-
-## Installation
-
-Please install the dependencies using:
-
-### `npm install --legacy-peer-deps` 
-
-This is to account for Material UI v4 which is not supported with React 18.
+This Yoga class application is a dynamic website which reacts at realtime as well as it is a highly scalable application. 
+This website is totally developed on tech stacks Django, Python, Html, Css, Bootstrap, Javascript, postgresql(Database). 
+I have used ORM (Object Relationship Mapping) for database handling and DTL (Django Template Library) and Jinja for Rest API connection and dynamic data handling in between backend and frontend. this application have feature of secure signup and login with django authentication. Signup has password validator and username, email, age validations which is very powerful. login is done using the safer auth library of django authentication. The forgot password option is also given to the user where after submitting some valid information the password will be sent to the user's valid email id. After logging in, users will be able to edit their own profile. where view profile, edit profile, change password, view transaction history and payment option is given to the user. i have added be an instructor page(if someone wants to be yoga instructor at class then he/she can apply it from there), contact us page(where user can write their query,feedback,issues,requests to yoga class), Newsletter(to get regular update from class), Advertisement page (If website admin wants to post some advertisements for class then admin can do it from admin portal),Admin portal(to manage all the database). Everything has an email alert system. Some problem statements solved are here.. users will be able to check the validity of their membership or will get an alert on their mail also. while payment users will be able to change their batch/shift. Each and every transaction history will be shown to the user.
